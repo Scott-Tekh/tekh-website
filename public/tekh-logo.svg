@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 1100 434" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;">
+    <g transform="matrix(4.166667,0,0,4.166667,0,0)">
+        <rect x="0" y="0" width="264" height="104" style="fill:none;"/>
+    </g>
+    <g transform="matrix(4.166667,0,0,4.166667,0,0)">
+        <g>
+            <g>
+                <g>
+                    <g>
+                        <g transform="matrix(1,0,0,1,0.5,0.5)">
+                            <path d="M252,31.6L252,90.4C252,97.354 246.354,103 239.4,103L32.6,103C25.646,103 20,97.354 20,90.4L20,31.6C20,24.646 25.646,19 32.6,19L239.4,19C246.354,19 252,24.646 252,31.6Z" style="fill:rgb(15,19,83);stroke:black;stroke-width:1px;"/>
+                        </g>
+                    </g>
+                    <g transform="matrix(0.24,0,0,0.24,-8.64,15.36)">
+                        <g transform="matrix(300,0,0,300,1049.916197,287.336807)">
+                        </g>
+                        <text x="887.916px" y="287.337px" style="font-family:'ShareTechMono-Regular', 'Share Tech Mono', monospace;font-size:300px;fill:rgb(237,38,132);">h</text>
+                    </g>
+                    <g transform="matrix(0.24,0,0,0.24,-12.96,18.96)">
+                        <g transform="matrix(300,0,0,300,851.167383,274.148581)">
+                        </g>
+                        <text x="689.167px" y="274.149px" style="font-family:'ShareTechMono-Regular', 'Share Tech Mono', monospace;font-size:300px;fill:rgb(237,38,132);">k</text>
+                    </g>
+                    <g transform="matrix(0.24,0,0,0.24,-18.96,18.48)">
+                        <g transform="matrix(300,0,0,300,667.930532,274.943543)">
+                        </g>
+                        <text x="505.931px" y="274.944px" style="font-family:'ShareTechMono-Regular', 'Share Tech Mono', monospace;font-size:300px;fill:rgb(237,38,132);">e</text>
+                    </g>
+                    <g>
+                        <g transform="matrix(1,0,0,1,0.5,0.5)">
+                            <circle cx="62" cy="61" r="40" style="fill:rgb(71,113,195);stroke:black;stroke-width:1px;"/>
+                        </g>
+                        <g transform="matrix(0.24,0,0,0.24,-16.8,18.96)">
+                            <g transform="matrix(300,0,0,300,409.477986,272.497505)">
+                            </g>
+                            <text x="247.478px" y="272.498px" style="font-family:'ShareTechMono-Regular', 'Share Tech Mono', monospace;font-size:300px;fill:rgb(15,19,83);">t</text>
+                        </g>
+                    </g>
+                    <g>
+                        <g transform="matrix(1,0,0,1,0.5,0.5)">
+                            <g transform="matrix(-1,0,-0,-1,101,100)">
+                                <rect x="0" y="0" width="101" height="100" style="fill:none;"/>
+                            </g>
+                            <g transform="matrix(-1,0,-0,-1,101,100)">
+                                <path d="M94.41,81.92L100.71,88.19C101,88.52 100.94,89.05 100.69,89.27L92.2,97.74C91.29,98.7 88.24,100 85.56,98.41L81.66,94.74L94.41,81.92ZM39.68,70.33C55.26,70.33 70.16,56.92 70.16,39.13C70.16,21.99 56.56,7.65 39.21,7.65C21.48,7.65 7.7,21.78 7.7,38.94C7.7,54.33 19.41,70.33 39.68,70.33ZM39.9,78.15C15.88,78.15 0,59.26 0,39.13C0,19.78 15.1,0 39.1,0C60.76,0 77.9,17.73 77.9,38.9C77.9,47.58 75.13,55.98 70.11,62.57L75.94,68.42C78.27,67.52 80.87,68.17 82.14,69.56L92,79.55L79.3,92.31L65.29,78.48L67.89,75.86L62.31,70.31C55.17,75.88 45.96,78.15 39.9,78.15Z" style="fill:rgb(68,149,209);fill-rule:nonzero;"/>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

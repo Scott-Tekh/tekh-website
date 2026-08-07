@@ -1,0 +1,4 @@
+import type { Metadata } from "next";
+import { PageFooter, PageHero, SiteHeader } from "../site-chrome";
+export const metadata:Metadata={title:"Privacy notice",robots:{index:false,follow:true}};
+export default function Privacy(){return <main><SiteHeader/><PageHero eyebrow="Privacy" title={<>Privacy, made<br/><em>clear.</em></>} intro="This placeholder privacy notice should be reviewed against Tekh’s actual data handling before the new site goes live."/><section className="legal section-pad"><h2>What we collect</h2><p>If you contact us, we receive the information you choose to provide, such as your name, work email, organisation and message.</p><h2>How we use it</h2><p>We use enquiry details to respond and to manage a potential working relationship. We do not sell personal information.</p><h2>Your choices</h2><p>You can ask what information we hold, request a correction or ask us to delete it by emailing info@tekh.co.uk.</p></section><PageFooter/></main>}
